@@ -15,9 +15,9 @@
 
 ## Screenshot of App
 
-* __Home Page: Input Keyword__
+* _Home Page: Input Keyword_
 ![1 home](https://user-images.githubusercontent.com/16315641/36166147-414269b2-1124-11e8-83e3-56bb8ebde4c2.png)
-* __Result Page__
+* _Result Page_
 ![2 result](https://user-images.githubusercontent.com/16315641/36166157-44e6110e-1124-11e8-82f0-48886953456b.png)
-* __View Article__
+* _View Article_
 ![3 article](https://user-images.githubusercontent.com/16315641/36166162-479425ee-1124-11e8-8677-97139aeccf4e.png)
