@@ -1,0 +1,12 @@
+Mahasiswa Ciptakan Alat Kontrol Listrik Melalui SMS
+
+JAKARTA – Tidak jarang orang lupa mematikan lampu ketika sedang berpergian jauh. Padahal, peralatan listrik penting dimatikan ketika sedang tidak digunakan untuk mencegah pemborosan.
+Menilik masalah tersebut, mahasiswa Teknik Industri Universitas Trisakti (Usakti) menciptakan inovasi bernama ‘Smart Controller’ yang dapat mematikan dan menghidupkan peralatan listrik melalui SMS.
+
+“Smart Cotroller itu merupakan modem yang dapat mengontrol listrik di rumah kita. Hanya dengan SMS, kita bisa mematikan atau memadamkan lampu. Karena menggunakan jaringan 2G, jadi lebih luas. Kalau yang sudah ada kan biasanya pakai bluetooth, WiFi, atau aplikasi. Beda dengan Smart Controller yang jangkauannya lebih luas,” papar salah satu mahasiswa, Sarah Dian kepada Okezone, Jumat (24/11/2017).
+
+Alat ini mengunggulkan kemudahan kontrol listrik kapan saja, dan di mana saja, sebab penggunaanya sama seperti mengirim pesan singkat ke orang lain. Jadi, tidak perlu khawatir meminta orang lain mematikan alat litrik di rumah.
+
+“Setiap modem punya nomor masing-masing, terserah kita mau mengaturnya gimana. Misalnya, kita pasang kipas angin di Relay1, lampu di Relay2. Tinggal ketik Relay1 (spasi) On, dikirim, nanti dia bereaksi,” imbuhnya.
+
+Lebih jauh, mahasiswa yang tergabung dalam PT. Creative Capital Industry itu berharap bisa mengembangkan Smart Cotroll sampai alat-alat listrik bisa merespon balik SMS untuk memberi kepastian kepada pengguna bahwa listrik telah padam.

@@ -1,0 +1,17 @@
+Mahasiswa Ciptakan Aplikasi 'Melijo' untuk Bantu Petani
+
+JAKARTA – Seiring dengan meningkatnya kebutuhan pangan nasional, Perserikatan Bangsa-Bangsa (PBB) menyebutkan jumlah penduduk dunia pada tahun 2030 akan melonjak sebanyak 8,5 miliar jiwa.
+
+Sayangnya, data ini bertolak belakang dengan fenomena turunnya jumlah petani hingga 23,2% selama 17 tahun terakhir. Masalah ini diprediksi karena adanya peran tengkulak dalam menghalangi proses distribusi langsung antara petani dan konsumen yang menyebabkan fluktuasi harga pasar. Kerugian tentu saja paling banyak ditanggung petani.]
+
+Menilik masalah tersebut, Laboran Team yang terdiri dari dua mahasiswa Fakultas Ilmu Administrasi (FIA), Ekananda Putri N. A. dan Mohamad Faathir Al Hakim, serta seorang mahasiswa Fakultas Ilmu Komputer (Fasilkom) I Made Resza Surya Adinata, membentuk aplikasi proses bisnis yang dinilai mampu memberi solusi atas masalah pendapatan petani.
+
+Aplikasi yang diberi nama Melijo itu diciptakan untuk mempermudah petani bersentuhan langsung dengan pembeli. Jadi, para petani dapat mendistribusikan langsung hasil panennya tanpa melalui tengkulak.
+
+Salah satu anggota Laboran Team, Resza menyebutkan, aplikasi Melijo dibagi menjadi dua mode, yaitu untuk petani dan pelanggan. Pada mode petani, fitur transaksi tani; laba panen; sisa panen; dan fitur tani pedia. Sementara, mode pelanggan meliputi fitur memesan sayur; tracking pesanan; paket promo; dan fitur rasting untuk berlangganan.
+
+Menurut Faathir yang juga tergabung dalam Laboran Team, mereka akan terus mengembangkan aplikasi sampai benar-benar berguna untuk masyarakat.
+
+“Rencana ke depan kita tidak hanya mencakup wilayah Malang saja. Inginnya dikembangkan sampai cakupan luar kota misalkan Surabaya,” jelasnya, seperti dilansir dari laman UB, Rabu (23/11/2017).
+
+Aplikasi Melijo telah berhasil membawa Laboran Team menjadi juara pada Pagelaran Mahasiswa Nasional bidang Teknologi Informasi dan Komunikasi (Gemastik), sebuah ajang bergengsi di Tanah Air.
