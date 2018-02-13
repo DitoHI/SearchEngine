@@ -11,7 +11,8 @@
 * __Tagging__ : Modify the words into the very base words
 * __Analyzing__ : Count the sum of each words
 
-##### For the comparing (analyzing) technique, the system implements _Term-Frequency_ algorithm
+##### For the comparing (analyzing) technique, the system implements _Term-Frequency_ algorithm with the help of library __Sastrawi__
+*To know the method of installing sastrawi, redirect to https://github.com/sastrawi/sastrawi*
 
 ## Screenshot of App
 
